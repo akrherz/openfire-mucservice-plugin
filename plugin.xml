@@ -6,6 +6,6 @@
     <description>(Deprecated) Please use the REST API Plugin. MUC administration over REST Interface</description>
     <author>Roman Soldatow</author>
     <version>${project.version}</version>
-    <date>tbc</date>
+    <date>2024-09-12</date>
     <minServerVersion>3.9.1</minServerVersion>
 </plugin>

@@ -4,11 +4,11 @@
     <parent>
         <artifactId>plugins</artifactId>
         <groupId>org.igniterealtime.openfire</groupId>
-        <version>4.3.0-beta</version>
+        <version>4.3.0</version>
     </parent>
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>mucservice</artifactId>
-    <version>0.2.4-SNAPSHOT</version>
+    <version>0.2.4</version>
     <name>(deprecated) MUC Service Plugin</name>
     <description>(Deprecated) Please use the REST API Plugin. MUC administration over REST Interface</description>
 
